@@ -63,7 +63,6 @@ export default ({
         <CardBadge
           featherIconName="play"
           text="Tap to start follow up"
-          backgroundColor={theme.lightPink}
         />
       )}
     </TouchableCardContainer>

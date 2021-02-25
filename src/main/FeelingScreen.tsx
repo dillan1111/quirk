@@ -157,6 +157,7 @@ export default class FeelingScreen extends React.Component<
           style={{
             marginBottom: 12,
             backgroundColor: "white",
+            buttonRadius: 50
           }}
           onPress={this.onFeltBetter}
         />

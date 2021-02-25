@@ -169,8 +169,8 @@ export default class DistortionScreen extends React.Component<
         <View
           style={{
             width: "100%",
-            backgroundColor: "white",
-            padding: 12,
+            backgroundColor: "grey",
+            padding: 1,
             borderTopWidth: 1,
             borderTopColor: theme.lightGray,
             justifyContent: "flex-end",

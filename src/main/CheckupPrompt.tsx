@@ -30,7 +30,7 @@ export default ({ onPress }) => (
         style={{
           margin: 0,
           color: theme.blue,
-          fontSize: 14,
+          fontSize: 16,
         }}
       >
         Start Milestone
